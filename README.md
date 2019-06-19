@@ -1,8 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# learn-hooks
 
-## Available Scripts
+React Hooks demos.
 
-In the project directory, you can run:
+## install & use
 
 ### `npm start`
 
